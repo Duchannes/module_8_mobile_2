@@ -1,0 +1,38 @@
+{
+  "name": "module_8_mobile_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "appium": "appium",
+    "wdio": "wdio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duchannes/module_8_mobile_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Duchannes/module_8_mobile_2/issues"
+  },
+  "homepage": "https://github.com/Duchannes/module_8_mobile_2#readme",
+  "devDependencies": {
+    "@wdio/cli": "^5.4.15",
+    "@wdio/dot-reporter": "^5.4.15",
+    "@wdio/local-runner": "^5.4.15",
+    "@wdio/mocha-framework": "^5.4.14",
+    "@wdio/spec-reporter": "^5.4.15",
+    "@wdio/sync": "^5.4.14",
+    "eslint": "^5.13.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "webdriverio": "^5.4.15"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
